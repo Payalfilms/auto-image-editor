@@ -1,0 +1,12 @@
+# robots.txt for Payal Films Auto Image Editor
+User-agent: *
+Allow: /
+
+# Priority Googlebot and Bingbot indexing
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://payalfilms.com/sitemap.xml
